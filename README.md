@@ -1,2 +1,0 @@
-# literate-lamp
-data analysis
